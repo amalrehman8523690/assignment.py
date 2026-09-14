@@ -1,0 +1,4 @@
+Name: Amal
+Age: 21
+City: Lahore
+Course: Python Programming
